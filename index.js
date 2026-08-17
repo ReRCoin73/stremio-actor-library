@@ -69,6 +69,7 @@ const manifest = {
   version: '1.0.0',
   name: 'Minha Biblioteca por Ator',
   description: 'Sua biblioteca do Stremio, filtravel por ator principal',
+  logo: 'https://raw.githubusercontent.com/ReRCoin73/stremio-actor-library/main/public/logo.png',
   resources: ['catalog'],
   types: ['movie', 'series'],
   catalogs: [
